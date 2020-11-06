@@ -9,7 +9,7 @@
         <p><b>国籍：中国</b></p>
      </td>
      <td width="25%">
-        <img src="/DSC_7548.JPG"width="100%">            % 插入证件照代码         
+        <img src="/zhengjianzhao.jpeg"width="100%">            % 插入证件照代码         
        </td>
     </tr>
 </table>
