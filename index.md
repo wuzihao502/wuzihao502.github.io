@@ -9,7 +9,7 @@
        <p><b>国籍：中国</b></p>
     </td>
     <td width="30%">
-       <img src="/zhengjianzhao.jpeg" width="100%">                 
+       <img src="/zhengjianzhao.jpeg" width="90%">                 
      </td>
    </tr>
 </table>
