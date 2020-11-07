@@ -11,7 +11,7 @@
 <td bgcolor="aliceblue">19</td>
 <th bgcolor="aliceblue">民族:</th>
 <td bgcolor="aliceblue">汉</td>
-<td bgcolor="aliceblue"rowspan="3" width="100"<p><img border="0" src="DSC_7548.JPG"/></p></td>
+<td bgcolor="aliceblue"rowspan="3" width="100"<p><img border="0" src="http://a1.qpic.cn/psc?/c9ec2ae1-f230-42c7-b6ae-073d5f60c10d/AnEbYoeEzDEIxNItsAwyVs4NlO.3X.KvWSrsT4R8ojcWJvt2xWbMsA*YZgiejHDe86ExhbtNPgGEzFXQTFf8Rg!!/b&ek=1&kp=1&pt=0&bo=WgB4AFoAeAARADc!&tl=1&vuin=7149788&tm=1604736000&sce=60-3-3&rf=0-0"/></p></td>
 </tr>
 <tr>
 <th bgcolor="aliceblue">出生:</th>
@@ -46,7 +46,7 @@
 <tr>
 <th height="160" bgcolor="aliceblue"> 作品集</th>
 <tdbgcolor="aliceblue"colspan="6">
-<p>我的设计，我爱</p>
+<p>我的设计，我的爱</p>
 </tr>
 <tr>
 <th height="160" bgcolor="aliceblue">个人陈述</th>
