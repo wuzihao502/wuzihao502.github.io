@@ -1,6 +1,6 @@
 <table border="0">
    <tr>
-      <td width="30%">
+      <td width="65%">
        <h1>姓名：武子豪</h1>
        <p><b>民族：汉族</b></p>
        <p><b>政治面貌：共青团员</b></p>
@@ -8,7 +8,7 @@
        <p><b>年龄：20岁</b></p>
        <p><b>国籍：中国</b></p>
     </td>
-    <td width="70%">
+    <td width="35%">
        <img src="/zhengjianzhao.jpeg" width="100%">                 
      </td>
    </tr>
