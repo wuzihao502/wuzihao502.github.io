@@ -11,7 +11,7 @@
 <td bgcolor="aliceblue">19</td>
 <th bgcolor="aliceblue">民族:</th>
 <td bgcolor="aliceblue">汉</td>
-<td rowspan="3" width="100"<p><img border="0" src="DSC_7548.JPG" />
+<td bgcolor="aliceblue" rowspan="3" width="100"<p><img border="0" src="DSC_7548.JPG" />
 </a></p></td>
 </tr>
 <tr>
