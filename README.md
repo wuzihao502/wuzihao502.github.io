@@ -1,5 +1,5 @@
 <html>
-<body background=https://up.enterdesk.com/edpic/cb/12/c0/cb12c0700fc6fec3daf9954456907681.jpg>
+<body>
 <table border="1" align="center" cellpadding="10" width="800">
 <tr>
 <th colspan="7" bgcolor="aliceblue" >我的个人简介</th>
