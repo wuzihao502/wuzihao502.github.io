@@ -11,8 +11,7 @@
 <td bgcolor="aliceblue">19</td>
 <th bgcolor="aliceblue">民族:</th>
 <td bgcolor="aliceblue">汉</td>
-<td rowspan="3" width="100"<p><img border="0" src="DSC_7548.JPG" />
-</a></p></td>
+<td bgcolor="aliceblue"rowspan="3" width="100"<p><img border="0" src="DSC_7548.JPG"/></p></td>
 </tr>
 <tr>
 <th bgcolor="aliceblue">出生:</th>
@@ -36,7 +35,7 @@
 <th bgcolor="aliceblue">籍贯:</th>
 <td bgcolor="aliceblue">山东寿光</td>
 <th bgcolor="aliceblue">邮箱:</th>
-<td bgcolor="aliceblue"colspan="2"<p><ahref="mailto:1964567582@qq.com?subject=Hello%20again">1964567582@qq.com </a></p></td>
+<td bgcolor="aliceblue"colspan="2"<p><ahref="mailto:842160643@qq.com?subject=Hello%20again">842160643@qq.com </a></p></td>
 </tr>
 <tr>
 <th height="160" bgcolor="aliceblue">专业领域</th>
