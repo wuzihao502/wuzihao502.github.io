@@ -1,7 +1,7 @@
 <div>
 <table border="0">
    <tr>
-      <td width="75%">
+     <td width="75%">
        <h1>姓名：武子豪</h1>
        <p><b>民族：汉族</b></p>
        <p><b>政治面貌：共青团员</b></p>
