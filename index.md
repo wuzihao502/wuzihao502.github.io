@@ -14,7 +14,7 @@
     <td>19</td>
     <th>民族:</th>
     <td>汉</td>
-    <td <p><img border="0" src="http://a1.qpic.cn/psc?/c9ec2ae1-f230-42c7-b6ae-073d5f60c10d/AnEbYoeEzDEIxNItsAwyVs4NlO.3X.KvWSrsT4R8ojcWJvt2xWbMsA*YZgiejHDe86ExhbtNPgGEzFXQTFf8Rg!!/b&ek=1&kp=1&pt=0&bo=WgB4AFoAeAARADc!&tl=1&vuin=7149788&tm=1604736000&sce=60-3-3&rf=0-0" />
+    <td width="100%"<p><img border="0" src="http://a1.qpic.cn/psc?/c9ec2ae1-f230-42c7-b6ae-073d5f60c10d/AnEbYoeEzDEIxNItsAwyVs4NlO.3X.KvWSrsT4R8ojcWJvt2xWbMsA*YZgiejHDe86ExhbtNPgGEzFXQTFf8Rg!!/b&ek=1&kp=1&pt=0&bo=WgB4AFoAeAARADc!&tl=1&vuin=7149788&tm=1604736000&sce=60-3-3&rf=0-0" />
 </p></td>
 </tr>
 
